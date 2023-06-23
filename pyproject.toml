@@ -16,6 +16,9 @@ tiktoken = "^0.4.0"
 ipykernel = "^6.23.2"
 chromadb = "^0.3.26"
 lark = "^1.1.5"
+yt-dlp = "^2023.6.22"
+pydub = "^0.25.1"
+replicate = "^0.8.3"
 
 
 [build-system]
