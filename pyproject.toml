@@ -20,6 +20,8 @@ yt-dlp = "^2023.6.22"
 pydub = "^0.25.1"
 replicate = "^0.8.3"
 beautifulsoup4 = "^4.12.2"
+fastapi = "^0.98.0"
+uvicorn = {extras = ["standard"], version = "^0.22.0"}
 
 
 [build-system]
