@@ -8,7 +8,7 @@ packages = [{include = "langchain-experiments"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-langchain = "^0.0.205"
+langchain = "^0.0.212"
 openai = "^0.27.8"
 python-dotenv = "^1.0.0"
 faiss-cpu = "^1.7.4"
@@ -19,6 +19,7 @@ lark = "^1.1.5"
 yt-dlp = "^2023.6.22"
 pydub = "^0.25.1"
 replicate = "^0.8.3"
+beautifulsoup4 = "^4.12.2"
 
 
 [build-system]
