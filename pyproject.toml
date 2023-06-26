@@ -22,6 +22,7 @@ replicate = "^0.8.3"
 beautifulsoup4 = "^4.12.2"
 fastapi = "^0.98.0"
 uvicorn = {extras = ["standard"], version = "^0.22.0"}
+supabase = "^1.0.3"
 
 
 [build-system]
