@@ -23,6 +23,8 @@ beautifulsoup4 = "^4.12.2"
 fastapi = "^0.98.0"
 uvicorn = {extras = ["standard"], version = "^0.22.0"}
 supabase = "^1.0.3"
+selenium = "^4.10.0"
+unstructured = "^0.7.9"
 
 
 [build-system]
